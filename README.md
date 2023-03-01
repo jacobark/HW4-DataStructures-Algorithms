@@ -9,7 +9,7 @@ Jacob Barker
 	g++ -g -o hw4-a hw4-a.cpp list-a.cpp list-a.h locnode.h
 	./hw4-a
 
-Program B: Insertion Sort
+# Program B: Insertion Sort
 **Code Does not work. 
 	-As is the program takes an input of Location Nodes and ouputs the resulting list of LocNodes
 	-I could not get the insertion sort working
